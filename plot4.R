@@ -11,3 +11,4 @@ plot(Global_reactive_power ~ Datetime, type = "l", ylab = "Global_rective_power"
 })
 
 png('plot4.png', width = 480, height = 480)
+
